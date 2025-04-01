@@ -142,33 +142,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Tech stack
-    images:
-      - altText: Empathy logo
-        type: ImageBlock
-      - url: /images/images.png
-        altText: C
-        type: ImageBlock
-      - url: /images/Python-Logo.png
-        altText: Python
-        type: ImageBlock
-      - url: /images/javascript.png
-        altText: javaScript
-        type: ImageBlock
-      - url: /images/java.jpeg
-        altText: Java
-        type: ImageBlock
-      - url: /images/html5.png
-        altText: HTML5
-        type: ImageBlock
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
@@ -251,6 +224,33 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
+  - subtitle: Tech stack
+    images:
+      - altText: Empathy logo
+        type: ImageBlock
+      - url: /images/images.png
+        altText: C
+        type: ImageBlock
+      - url: /images/Python-Logo.png
+        altText: Python
+        type: ImageBlock
+      - url: /images/javascript.png
+        altText: javaScript
+        type: ImageBlock
+      - url: /images/java.jpeg
+        altText: Java
+        type: ImageBlock
+      - url: /images/html5.png
+        altText: HTML5
+        type: ImageBlock
+    motion: move-to-left
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: ImageGallerySection
   - type: CarouselSection
     title: null
     subtitle: New Projects in the works
