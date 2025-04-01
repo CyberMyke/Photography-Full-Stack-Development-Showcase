@@ -9,9 +9,11 @@ sections:
       type: TitleBlock
     subtitle: Developer Portfolio
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      I’m a full-stack developer with a strong background in web design. I
+      specialize in building seamless, user-friendly web applications that
+      balance aesthetics and functionality. With expertise in both front-end and
+      back-end technologies, I love crafting intuitive digital experiences that
+      look great and perform even better.
     actions:
       - label: Get started
         altText: ''
