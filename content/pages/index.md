@@ -182,7 +182,7 @@ sections:
         altText: Vise logo
         type: ImageBlock
       - url: /images/javascript.png
-        altText: Telus logo
+        altText: javaScript
         type: ImageBlock
       - url: /images/java.jpeg
         altText: Java
