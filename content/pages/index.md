@@ -80,7 +80,7 @@ sections:
           user experiences.proficiency in programming languages (like Python or
           Java), database management, server-side
         image:
-          url: /images/icon2.svg
+          url: /images/very cartoon face smilling -1.jpeg
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
