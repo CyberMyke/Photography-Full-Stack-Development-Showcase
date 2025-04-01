@@ -258,7 +258,7 @@ sections:
       text: Create a personalized
       color: text-dark
       type: TitleBlock
-    subtitle: Just
+    subtitle: Refining My design skills
     text: |
       A service is a live website which i have made a one-to-one replica. 
     actions:
