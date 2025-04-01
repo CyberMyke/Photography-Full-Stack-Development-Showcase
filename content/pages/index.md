@@ -14,16 +14,7 @@ sections:
       balance aesthetics and functionality. With expertise in both front-end and
       back-end technologies, I love crafting intuitive digital experiences that
       look great and perform even better.
-    actions:
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
+    actions: []
     media:
       url: /images/main-hero.svg
       altText: Unblock your team boost your time to production preview
