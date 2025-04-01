@@ -190,9 +190,6 @@ sections:
       - url: /images/html5.png
         altText: HTML5
         type: ImageBlock
-      - url: /images/java.jpeg
-        altText: java
-        type: ImageBlock
     motion: move-to-left
     colors: bg-light-fg-dark
     styles:
