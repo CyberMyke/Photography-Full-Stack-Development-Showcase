@@ -431,7 +431,7 @@ sections:
         type: FeaturedItem
       - title: Unlock your dreams
         tagline: This is one of my first
-        subtitle: This is the item subtitle
+        subtitle: 10 hours
         text: >
           Learn from the tutorial and build your first awesome Netlify Create
           site.
