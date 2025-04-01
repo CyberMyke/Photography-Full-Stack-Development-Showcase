@@ -248,13 +248,7 @@ sections:
     subtitle: Be in good company
     text: |
       A service that provides advice and guidance on side gigs
-    actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
+    actions: []
     media:
       url: /images/Screenshot 2025-04-01 at 20.47.01.png
       altText: Dope design preview
