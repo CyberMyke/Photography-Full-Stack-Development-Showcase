@@ -117,7 +117,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Programming languages
-        subtitle: B
+        subtitle: 'Basic to Expert '
         text: >
           Multiple programming languages, including JavaScript, TypeScript,
           Python, and PHP, using the right tools to build efficient, scalable,
