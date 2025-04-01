@@ -17,7 +17,7 @@ sections:
     actions: []
     media:
       url: /images/coding  01-04-2025 at 21-26-13.jpeg
-      altText: Unblock your team boost your time to production preview
+      altText: Never again
       elementId: ''
       type: ImageBlock
     badge:
