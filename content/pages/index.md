@@ -432,9 +432,8 @@ sections:
       - title: Unlock your dreams
         tagline: This is one of my first
         subtitle: 10 hours
-        text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+        text: |
+          Happy with the out come and how the angels turned out 
         image:
           url: /images/website-3.jpeg
           altText: Placeholder image
