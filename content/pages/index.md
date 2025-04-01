@@ -345,7 +345,9 @@ sections:
         text: |
           Only completed online step-by-step but still love the outcome 
         image:
-          url: /images/person-placeholder-light.png
+          url: |-
+            /images/website more like this
+            -0.jpeg
           altText: Maria Walters
           styles:
             self:
