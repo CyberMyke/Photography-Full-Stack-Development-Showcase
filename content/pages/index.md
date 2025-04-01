@@ -1,5 +1,5 @@
 ---
-title: Home
+title: My Work in Action
 slug: /
 sections:
   - type: GenericSection
