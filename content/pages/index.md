@@ -385,7 +385,7 @@ sections:
     items:
       - title: The mess has order
         tagline: 'This was just a doodle '
-        subtitle: 'This was just a doodle '
+        subtitle: 15 hours
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
