@@ -276,7 +276,7 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/Screenshot 2025-04-01 at 20.24.52.png
+      url: /images/Screenshot 2025-04-01 at 20.35.46.png
       altText: Fun feature preview
       type: ImageBlock
     badge:
