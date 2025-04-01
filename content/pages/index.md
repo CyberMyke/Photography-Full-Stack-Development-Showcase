@@ -15,15 +15,6 @@ sections:
       back-end technologies, I love crafting intuitive digital experiences that
       look great and perform even better.
     actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
       - label: See Tutorials
         altText: ''
         url: /
