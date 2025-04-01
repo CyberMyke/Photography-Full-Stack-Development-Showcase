@@ -98,7 +98,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: Programming languages
+      - title: Graphic Artist
         subtitle: 'Basic to Expert '
         text: >
           Multiple programming languages, including JavaScript, TypeScript,
