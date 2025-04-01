@@ -409,8 +409,9 @@ sections:
       - title: 'I lost the file :c'
         tagline: This is the tagline
         subtitle: 'My favorite '
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: >
+          i have no idea how long this taken, lost my pen for a while which
+          slowed me down 
         image:
           url: /images/website-2.jpeg
           altText: Placeholder image
