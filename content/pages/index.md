@@ -185,7 +185,7 @@ sections:
         altText: Telus logo
         type: ImageBlock
       - url: /images/java.jpeg
-        altText: Contentful logo
+        altText: Java
         type: ImageBlock
       - url: /images/html5.png
         altText: HTML5
