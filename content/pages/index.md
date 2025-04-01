@@ -214,14 +214,7 @@ sections:
     subtitle: Refining My design skills
     text: |
       An example of a website with a clean and simple layout 
-    actions:
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
+    actions: []
     media:
       url: /images/Screenshot 2025-04-01 at 20.35.46.png
       altText: Fun feature preview
