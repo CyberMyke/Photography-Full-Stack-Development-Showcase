@@ -384,7 +384,7 @@ sections:
     subtitle: 'Learning, Building, and Documenting'
     items:
       - title: The mess has order
-        tagline: This is the tagline
+        tagline: 'This was just a doodle '
         subtitle: 'This was just a doodle '
         text: |
           Follow the tutorial to build your first Netlify Create site.
