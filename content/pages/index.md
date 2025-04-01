@@ -179,7 +179,7 @@ sections:
         altText: Wellster logo
         type: ImageBlock
       - url: /images/Python-Logo.png
-        altText: Vise logo
+        altText: Python
         type: ImageBlock
       - url: /images/javascript.png
         altText: javaScript
