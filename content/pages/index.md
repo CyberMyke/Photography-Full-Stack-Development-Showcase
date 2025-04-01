@@ -64,7 +64,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Front-end
+        title: Web designer
         subtitle: Visual Design
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
