@@ -341,7 +341,7 @@ sections:
           Fundamentals of design, color theory, typography, and industry-leading
           tools
         tagline: ''
-        subtitle: 'Maria Walters, Company'
+        subtitle: 'Starting to do my own art '
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
