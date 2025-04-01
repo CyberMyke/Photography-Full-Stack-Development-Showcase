@@ -430,7 +430,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: Unlock your dreams
-        tagline: This is the tagline
+        tagline: This is one of my first
         subtitle: This is the item subtitle
         text: >
           Learn from the tutorial and build your first awesome Netlify Create
