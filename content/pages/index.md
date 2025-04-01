@@ -64,7 +64,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Front-end development
+        title: Front-end
         subtitle: Front-end development
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
