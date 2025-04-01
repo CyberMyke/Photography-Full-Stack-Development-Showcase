@@ -104,7 +104,7 @@ sections:
           Most of my art when it comes to people are only edits, the rest is my
           own. Hopping to take some classes in the future 
         image:
-          url: /images/icon3.svg
+          url: /images/very cartoon face smilling -2.jpeg
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
