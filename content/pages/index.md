@@ -406,7 +406,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: 'My favorite '
+      - title: 'I lost the file :c'
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
