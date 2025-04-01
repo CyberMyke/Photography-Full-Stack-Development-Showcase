@@ -99,7 +99,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Graphic Artist
-        subtitle: 'Basic to Expert '
+        subtitle: 'Still working on it '
         text: >
           Multiple programming languages, including JavaScript, TypeScript,
           Python, and PHP, using the right tools to build efficient, scalable,
