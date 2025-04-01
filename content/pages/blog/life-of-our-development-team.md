@@ -1,5 +1,5 @@
 ---
-title: Only edit
+title: I didn't draw only edited a free image.
 slug: life-of-our-development-team
 date: '2025-01-15'
 excerpt: >-
