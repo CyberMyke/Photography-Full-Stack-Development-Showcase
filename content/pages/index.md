@@ -304,6 +304,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/Screenshot 2025-04-01 at 20.24.52.png
   - title:
       text: Social Media Management
       color: text-dark
