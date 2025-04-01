@@ -311,7 +311,7 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/hero3.svg
+      url: /images/Screenshot 2025-04-01 at 20.36.34.png
       altText: Dope design preview
       type: ImageBlock
     badge:
