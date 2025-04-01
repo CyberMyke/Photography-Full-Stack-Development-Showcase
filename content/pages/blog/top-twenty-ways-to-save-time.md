@@ -1,5 +1,5 @@
 ---
-title: I didn't draw only edited a free image.
+title: I didn't draw only edited
 slug: top-twenty-ways-to-save-time
 date: '2023-03-25'
 excerpt: 'Just playing with layers, happy how it turned out'
