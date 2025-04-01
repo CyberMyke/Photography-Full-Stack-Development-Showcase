@@ -66,10 +66,9 @@ sections:
       - type: FeaturedItem
         title: Web designer
         subtitle: Visual Design
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          building functional and visually appealing web applications with a
+          strong focus on UI and UX.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
