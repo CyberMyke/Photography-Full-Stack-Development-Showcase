@@ -215,12 +215,6 @@ sections:
     text: |
       An example of a website with a clean and simple layout 
     actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
       - label: See Tutorials
         url: /
         showIcon: true
