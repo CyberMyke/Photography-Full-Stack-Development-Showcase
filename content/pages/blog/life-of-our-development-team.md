@@ -1,5 +1,5 @@
 ---
-title: I didn't draw only edited a free image.
+title: I didn't draw only edited
 slug: life-of-our-development-team
 date: '2025-01-15'
 excerpt: Just playing with how paint could look when dropped
