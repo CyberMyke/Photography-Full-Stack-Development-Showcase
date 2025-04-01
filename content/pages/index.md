@@ -595,7 +595,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: 'Learning, Building, and Documenting'
     items:
       - title: Feature Item One
         tagline: This is the tagline
