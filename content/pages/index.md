@@ -188,7 +188,7 @@ sections:
         altText: Contentful logo
         type: ImageBlock
       - url: /images/html5.png
-        altText: Sanity logo
+        altText: HTML5
         type: ImageBlock
       - url: /images/rangle-logo.svg
         altText: Rangle logo
