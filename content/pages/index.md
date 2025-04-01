@@ -176,7 +176,7 @@ sections:
         altText: Empathy logo
         type: ImageBlock
       - url: /images/images.png
-        altText: Wellster logo
+        altText: C
         type: ImageBlock
       - url: /images/Python-Logo.png
         altText: Python
