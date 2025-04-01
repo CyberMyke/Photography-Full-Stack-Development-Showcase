@@ -69,7 +69,7 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/icon1.svg
+          url: /images/very cartoon face smilling -0.jpeg
           styles:
             self:
               borderRadius: x-large
