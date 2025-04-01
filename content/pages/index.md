@@ -16,7 +16,7 @@ sections:
       look great and perform even better.
     actions: []
     media:
-      url: /images/main-hero.svg
+      url: /images/43d5b297-631c-4605-af89-d0ebbe60c155.jpeg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
