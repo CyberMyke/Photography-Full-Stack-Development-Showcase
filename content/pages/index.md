@@ -345,14 +345,13 @@ sections:
         text: |
           Only completed online step-by-step but still love the outcome 
         image:
-          url: |-
-            /images/website more like this
-            -1.jpeg
-          altText: Maria Walters
+          type: ImageBlock
+          url: /images/hero2.svg
+          altText: Image alt text placeholder
+          elementId: ''
           styles:
             self:
-              borderRadius: full
-          type: ImageBlock
+              borderRadius: medium
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
