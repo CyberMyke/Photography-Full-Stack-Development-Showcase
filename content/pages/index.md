@@ -311,7 +311,7 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/Screenshot 2025-04-01 at 20.36.34.png
+      url: /images/Screenshot 2025-04-01 at 20.47.01.png
       altText: Dope design preview
       type: ImageBlock
     badge:
