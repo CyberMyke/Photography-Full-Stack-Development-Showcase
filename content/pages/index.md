@@ -408,7 +408,7 @@ sections:
         type: FeaturedItem
       - title: 'I lost the file :c'
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: 'My favorite '
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
