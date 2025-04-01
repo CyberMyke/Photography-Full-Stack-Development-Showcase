@@ -347,7 +347,7 @@ sections:
         image:
           url: |-
             /images/website more like this
-            -0.jpeg
+            -1.jpeg
           altText: Maria Walters
           styles:
             self:
