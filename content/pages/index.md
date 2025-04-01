@@ -226,7 +226,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: "My\_Work in Action"
+      text: My Work in Action
       color: text-dark
       styles:
         self:
