@@ -118,10 +118,10 @@ sections:
         type: FeaturedItem
       - title: Programming languages
         subtitle: B
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Multiple programming languages, including JavaScript, TypeScript,
+          Python, and PHP, using the right tools to build efficient, scalable,
+          and maintainable applications.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
