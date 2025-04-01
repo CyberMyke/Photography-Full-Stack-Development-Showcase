@@ -255,13 +255,6 @@ sections:
         iconPosition: right
         style: secondary
         type: Button
-      - label: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
     media:
       url: /images/Screenshot 2025-04-01 at 20.47.01.png
       altText: Dope design preview
