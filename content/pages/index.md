@@ -338,8 +338,8 @@ sections:
     subtitle: New Projects in the works
     items:
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          Fundamentals of design, color theory, typography, and industry-leading
+          tools
         tagline: ''
         subtitle: 'Maria Walters, Company'
         text: >-
