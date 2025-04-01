@@ -2,10 +2,7 @@
 title: I didn't draw only edited a free image.
 slug: life-of-our-development-team
 date: '2025-01-15'
-excerpt: >-
-  Vel repellat dolores ut unde voluptatum ut optio voluptates est aliquid. Ut
-  earum corporis id Quis esse est galisum officiis accusantium enim et
-  asperiores dolore.
+excerpt: Just playing with how paint could look when dropped
 featuredImage:
   url: >-
     /images/website more like this keep the style but do fantastic; studio shot
