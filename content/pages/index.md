@@ -190,7 +190,7 @@ sections:
       - url: /images/html5.png
         altText: HTML5
         type: ImageBlock
-      - url: /images/rangle-logo.svg
+      - url: /images/java.jpeg
         altText: Rangle logo
         type: ImageBlock
     motion: move-to-left
