@@ -65,7 +65,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Front-end
-        subtitle: Front-end development
+        subtitle: development
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
