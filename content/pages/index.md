@@ -346,7 +346,9 @@ sections:
           Only completed online step-by-step but still love the outcome 
         image:
           type: ImageBlock
-          url: /images/hero2.svg
+          url: |-
+            /images/website more like this
+            -3.jpeg
           altText: Image alt text placeholder
           elementId: ''
           styles:
