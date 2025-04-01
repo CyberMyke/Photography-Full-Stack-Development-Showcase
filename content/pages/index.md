@@ -260,7 +260,7 @@ sections:
       type: TitleBlock
     subtitle: Refining My design skills
     text: |
-      A service is a live website which i have made a one-to-one replica. 
+      An example of a website with a clean and simple layout 
     actions:
       - label: Get started
         url: /
