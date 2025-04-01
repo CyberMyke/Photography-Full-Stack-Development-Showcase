@@ -429,7 +429,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Three
+      - title: Unlock your dreams
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: >
