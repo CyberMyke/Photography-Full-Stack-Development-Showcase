@@ -383,7 +383,7 @@ sections:
       type: TitleBlock
     subtitle: 'Learning, Building, and Documenting'
     items:
-      - title: Feature Item One
+      - title: The mess has order
         tagline: This is the tagline
         subtitle: 'This was just a doodle '
         text: |
