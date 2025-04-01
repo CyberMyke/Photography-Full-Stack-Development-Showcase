@@ -255,7 +255,7 @@ sections:
         textAlign: center
     type: GenericSection
   - title:
-      text: Create a personalized
+      text: Personalized
       color: text-dark
       type: TitleBlock
     subtitle: Refining My design skills
