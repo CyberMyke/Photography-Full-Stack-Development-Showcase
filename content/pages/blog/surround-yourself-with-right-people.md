@@ -1,5 +1,5 @@
 ---
-title: Right People
+title: I didn't draw only edit
 slug: surround-yourself-with-right-people
 date: '2024-03-26'
 excerpt: >-
