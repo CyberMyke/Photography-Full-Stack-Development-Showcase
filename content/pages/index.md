@@ -387,7 +387,7 @@ sections:
         tagline: 'This was just a doodle '
         subtitle: 15 hours
         text: |
-          Follow the tutorial to build your first Netlify Create site.
+          Cleaning my desktop and i thought it might look cool 
         image:
           url: /images/website-0.jpeg
           altText: Placeholder Image
