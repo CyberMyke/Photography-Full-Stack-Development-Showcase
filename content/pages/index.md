@@ -259,9 +259,8 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: |
+      A service is a live website which i have made a one-to-one replica. 
     actions:
       - label: Get started
         url: /
