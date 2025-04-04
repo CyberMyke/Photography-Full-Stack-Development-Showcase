@@ -19,9 +19,9 @@
             "$$type": "Link"
           },
           {
-            "label": "Pricing",
+            "label": "Photography",
             "altText": "",
-            "url": "/pricing",
+            "url": "/Photography",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
