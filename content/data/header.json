@@ -13,7 +13,7 @@
     "primaryLinks": [
         {
             "type": "Button",
-            "label": "Get started",
+            "label": "Home",
             "altText": "",
             "url": "/test",
             "showIcon": false,
