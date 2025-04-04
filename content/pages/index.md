@@ -7,7 +7,7 @@ sections:
       text: Hello :)
       color: text-dark
       type: TitleBlock
-    subtitle: My Developer Portfolio
+    subtitle: My Developer Portfolio :£
     text: >
       I’m a full-stack developer with a strong background in web design. I
       specialize in building seamless, user-friendly web applications that
