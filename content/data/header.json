@@ -12,6 +12,17 @@
     },
     "primaryLinks": [
         {
+            "type": "Button",
+            "label": "Home",
+            "altText": "",
+            "url": "/Photography-Full-Stack-Development-Showcase",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
+        },
+        {
             "label": "Pricing",
             "url": "/pricing",
             "icon": "arrowRight",
