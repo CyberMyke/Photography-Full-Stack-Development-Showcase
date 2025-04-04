@@ -14,7 +14,7 @@ featuredImage:
       borderRadius: medium
 seo:
   metaTitle: A Day in the Life of Our Development Team
-  metaDescription: You can add the excerpt and main keywords of your blog post here.
+  metaDescription: You can add the excerpt and main keywords of your photography post here.
   socialImage: /images/abstract-feature3.svg
   type: Seo
 colors: bg-light-fg-dark
@@ -25,4 +25,5 @@ styles:
     flexDirection: col
 isFeatured: false
 ---
+
 i wanted to do maybe some kind of space man but didnt want to draw one xD

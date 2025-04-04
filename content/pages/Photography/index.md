@@ -1,6 +1,6 @@
 ---
-title: Blog
-slug: /blog
+title: Photography
+slug: /Photography
 numOfPostsPerPage: 8
 enableSearch: true
 topSections:
@@ -10,7 +10,7 @@ topSections:
       type: TitleBlock
     subtitle: This is the subtitle
     posts:
-      - content/pages/blog/top-ten-lessons-we-learned.md
+      - content/pages/Photography/top-ten-lessons-we-learned.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
@@ -31,9 +31,9 @@ styles:
   title:
     textAlign: center
 seo:
-  metaTitle: Blog - Demo site
+  metaTitle: Photography - Demo site
   metaDescription: >-
-    This is the blog of the demo site where we post about technology, product,
+    This is the photography of the demo site where we post about technology, product,
     and design.
   socialImage: /images/img-placeholder.svg
   type: Seo

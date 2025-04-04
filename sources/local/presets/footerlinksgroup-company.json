@@ -19,9 +19,9 @@
             "$$type": "Link"
           },
           {
-            "label": "Blog",
+            "label": "Photography",
             "altText": "",
-            "url": "/blog",
+            "url": "/Photography",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",

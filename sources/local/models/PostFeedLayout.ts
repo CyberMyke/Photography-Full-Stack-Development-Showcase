@@ -3,11 +3,11 @@ import { Model } from '@stackbit/types';
 export const PostFeedLayout: Model = {
     type: 'page',
     name: 'PostFeedLayout',
-    label: 'Blog',
+    label: 'Photography',
     labelField: 'title',
     singleInstance: true,
     canDelete: false,
-    filePath: 'content/pages/blog/index.md',
+    filePath: 'content/pages/Photography/index.md',
     fieldGroups: [
         {
             name: 'settings',

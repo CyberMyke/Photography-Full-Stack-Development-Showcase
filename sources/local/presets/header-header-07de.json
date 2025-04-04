@@ -32,9 +32,9 @@
                         "$$type": "Link"
                     },
                     {
-                        "label": "Blog",
-                        "altText": "Blog",
-                        "url": "/blog",
+                        "label": "Photography",
+                        "altText": "Photography",
+                        "url": "/Photography",
                         "showIcon": null,
                         "icon": "arrowRight",
                         "iconPosition": "right",

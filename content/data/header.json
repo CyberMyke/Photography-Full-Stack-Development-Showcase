@@ -20,9 +20,9 @@
             "type": "Link"
         },
         {
-            "label": "Blog",
-            "altText": "Blog",
-            "url": "/blog",
+            "label": "Photography",
+            "altText": "Photography",
+            "url": "/Photography",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
