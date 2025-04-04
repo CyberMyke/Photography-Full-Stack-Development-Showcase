@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Hello
+      text: Hello :)
       color: text-dark
       type: TitleBlock
     subtitle: My Developer Portfolio
