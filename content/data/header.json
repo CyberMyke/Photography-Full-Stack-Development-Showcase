@@ -38,6 +38,17 @@
             "type": "Link"
         },
         {
+            "type": "Button",
+            "label": "Get started",
+            "altText": "",
+            "url": "/test",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
+        },
+        {
             "label": "Dropdown",
             "altText": "Dropdown",
             "links": [
@@ -68,17 +79,6 @@
             ],
             "labelStyle": "secondary",
             "type": "SubNav"
-        },
-        {
-            "type": "Button",
-            "label": "Get started",
-            "altText": "",
-            "url": "/test",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "elementId": ""
         }
     ],
     "secondaryLinks": [],
