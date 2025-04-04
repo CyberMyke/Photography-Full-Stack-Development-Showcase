@@ -13,7 +13,7 @@ sections:
       specialize in building seamless, user-friendly web applications that
       balance aesthetics and functionality. With expertise in both front-end and
       back-end technologies, I love crafting intuitive digital experiences that
-      look great and perform even better.
+      look great and perform even better test.
     actions: []
     media:
       url: /images/coding  01-04-2025 at 21-26-13.jpeg
@@ -102,7 +102,7 @@ sections:
         subtitle: 'Still working on it '
         text: >
           Most of my art when it comes to people are only edits, the rest is my
-          own. Hopping to take some classes in the future 
+          own. Hopping to take some classes in the future
         image:
           url: /images/very cartoon face smilling -2.jpeg
           altText: Featured icon three
@@ -176,7 +176,7 @@ sections:
       type: TitleBlock
     subtitle: Refining My design skills
     text: |
-      An example of a website with a clean and simple layout 
+      An example of a website with a clean and simple layout
     actions: []
     media:
       url: /images/Screenshot 2025-04-01 at 20.35.46.png
@@ -233,7 +233,7 @@ sections:
         tagline: ''
         subtitle: 'Starting to do my own art '
         text: |
-          Only completed online step-by-step but still love the outcome 
+          Only completed online step-by-step but still love the outcome
         image:
           type: ImageBlock
           url: /images/website-1.jpeg
@@ -277,7 +277,7 @@ sections:
         tagline: 'This was just a doodle '
         subtitle: 15 hours
         text: |
-          Cleaning my desktop and i thought it might look cool 
+          Cleaning my desktop and i thought it might look cool
         image:
           url: /images/website-0.jpeg
           altText: Placeholder Image
@@ -301,7 +301,7 @@ sections:
         subtitle: 'My favorite '
         text: >
           i have no idea how long this taken, lost my pen for a while which
-          slowed me down 
+          slowed me down
         image:
           url: /images/website-2.jpeg
           altText: Placeholder image
@@ -324,7 +324,7 @@ sections:
         tagline: This is one of my first
         subtitle: 10 hours
         text: |
-          Happy with the out come and how the angels turned out 
+          Happy with the out come and how the angels turned out
         image:
           url: /images/website-3.jpeg
           altText: Placeholder image
