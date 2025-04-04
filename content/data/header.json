@@ -15,7 +15,7 @@
             "type": "Button",
             "label": "Home",
             "altText": "",
-            "url": "my",
+            "url": "/",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
