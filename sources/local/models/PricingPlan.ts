@@ -1,9 +1,9 @@
 import { Model } from '@stackbit/types';
 
-export const PricingPlan: Model = {
+export const PhotographyPlan: Model = {
     type: 'object',
-    name: 'PricingPlan',
-    label: 'Pricing Plan',
+    name: 'PhotographyPlan',
+    label: 'Photography Plan',
     labelField: 'title',
     fields: [
         {

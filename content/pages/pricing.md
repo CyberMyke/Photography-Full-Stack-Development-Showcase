@@ -1,6 +1,6 @@
 ---
 title: photos
-slug: pricing
+slug: Photography
 sections:
   - type: FeaturedPostsSection
     title:
@@ -53,8 +53,8 @@ sections:
       self:
         justifyContent: center
 seo:
-  metaTitle: Pricing - Demo site
-  metaDescription: This is the pricing page built with Netlify Create.
+  metaTitle: Photography - Demo site
+  metaDescription: This is the Photography page built with Netlify Create.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout

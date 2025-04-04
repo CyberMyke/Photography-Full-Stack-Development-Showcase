@@ -21,9 +21,9 @@
                 },
                 "primaryLinks": [
                     {
-                        "label": "Pricing",
+                        "label": "Photography",
                         "altText": null,
-                        "url": "/pricing",
+                        "url": "/Photography",
                         "showIcon": null,
                         "icon": "arrowRight",
                         "iconPosition": "right",

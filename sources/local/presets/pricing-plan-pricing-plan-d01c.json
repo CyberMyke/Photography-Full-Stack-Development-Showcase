@@ -1,8 +1,8 @@
 {
-    "model": "PricingPlan",
+    "model": "PhotographyPlan",
     "presets": [
         {
-            "label": "Pricing plan",
+            "label": "Photography plan",
             "locale": null,
             "data": {
                 "title": "Developers",
@@ -17,7 +17,7 @@
                 ],
                 "image": {
                     "url": "/images/abstract-feature1.svg",
-                    "altText": "Pricing plan 1",
+                    "altText": "Photography plan 1",
                     "elementId": null,
                     "styles": null,
                     "$$type": "ImageBlock"
@@ -49,7 +49,7 @@
                     }
                 }
             },
-            "thumbnail": "images/pricing-plan-pricing-plan-d01c.png"
+            "thumbnail": "images/Photography-plan-Photography-plan-d01c.png"
         }
     ]
 }

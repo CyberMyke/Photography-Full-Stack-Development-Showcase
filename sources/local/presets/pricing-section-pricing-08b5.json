@@ -1,12 +1,12 @@
 {
-    "model": "PricingSection",
+    "model": "PhotographySection",
     "presets": [
         {
-            "label": "Pricing",
+            "label": "Photography",
             "locale": null,
             "data": {
                 "title": {
-                    "text": "Flexible Pricing",
+                    "text": "Flexible Photography",
                     "color": "text-dark",
                     "styles": {
                         "self": {
@@ -15,7 +15,7 @@
                     },
                     "$$type": "TitleBlock"
                 },
-                "subtitle": "This is the subtitle for the pricing section",
+                "subtitle": "This is the subtitle for the Photography section",
                 "plans": [
                     {
                         "title": "Developers",
@@ -30,7 +30,7 @@
                         ],
                         "image": {
                             "url": "/images/abstract-feature1.svg",
-                            "altText": "Pricing plan 1",
+                            "altText": "Photography plan 1",
                             "elementId": null,
                             "styles": null,
                             "$$type": "ImageBlock"
@@ -61,7 +61,7 @@
                                 "borderRadius": "large"
                             }
                         },
-                        "$$type": "PricingPlan"
+                        "$$type": "PhotographyPlan"
                     },
                     {
                         "title": "Professional",
@@ -76,7 +76,7 @@
                         ],
                         "image": {
                             "url": "/images/abstract-feature2.svg",
-                            "altText": "Pricing plan 2",
+                            "altText": "Photography plan 2",
                             "elementId": null,
                             "styles": null,
                             "$$type": "ImageBlock"
@@ -107,7 +107,7 @@
                                 "borderRadius": "large"
                             }
                         },
-                        "$$type": "PricingPlan"
+                        "$$type": "PhotographyPlan"
                     },
                     {
                         "title": "Enterprise",
@@ -123,7 +123,7 @@
                         ],
                         "image": {
                             "url": "/images/abstract-feature3.svg",
-                            "altText": "Pricing plan 3",
+                            "altText": "Photography plan 3",
                             "elementId": null,
                             "styles": null,
                             "$$type": "ImageBlock"
@@ -154,7 +154,7 @@
                                 "borderRadius": "large"
                             }
                         },
-                        "$$type": "PricingPlan"
+                        "$$type": "PhotographyPlan"
                     }
                 ],
                 "badge": null,
@@ -170,7 +170,7 @@
                     }
                 }
             },
-            "thumbnail": "images/pricing-section-pricing-08b5.png"
+            "thumbnail": "images/Photography-section-Photography-08b5.png"
         }
     ]
 }

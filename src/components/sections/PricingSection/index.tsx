@@ -9,13 +9,13 @@ import TitleBlock from '../../blocks/TitleBlock';
 import ImageBlock from '../../blocks/ImageBlock';
 import { Action, Badge } from '../../atoms';
 
-export default function PricingSection(props) {
+export default function PhotographySection(props) {
     const { elementId, colors, backgroundImage, badge, title, subtitle, plans = [], styles = {}, enableAnnotations } = props;
 
     return (
         <Section
             elementId={elementId}
-            className="sb-component-pricing-section"
+            className="sb-component-Photography-section"
             colors={colors}
             backgroundImage={backgroundImage}
             styles={styles?.self}
@@ -65,7 +65,7 @@ export default function PricingSection(props) {
                                     key={index}
                                     className="px-5 basis-full max-w-full sm:basis-5/6 sm:max-w-[83.33333%] md:basis-2/3 md:max-w-[66.66667%] lg:basis-1/3 lg:max-w-[33.33333%]"
                                 >
-                                    <PricingPlan {...plan} hasSectionTitle={!!title?.text} {...(enableAnnotations && { 'data-sb-field-path': `.${index}` })} />
+                                    <PhotographyPlan {...plan} hasSectionTitle={!!title?.text} {...(enableAnnotations && { 'data-sb-field-path': `.${index}` })} />
                                 </div>
                             ))}
                         </div>
@@ -76,7 +76,7 @@ export default function PricingSection(props) {
     );
 }
 
-function PricingPlan(props) {
+function PhotographyPlan(props) {
     const {
         elementId,
         title,
